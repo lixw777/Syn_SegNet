@@ -1,8 +1,12 @@
 # Syn_SegNet :A Joint Deep Neural Network for Ultrahigh-Field 7T MRI Synthesis and Hippocampal Subfield Segmentation in Routine 3T MRI
 
 This is our implementation of an end-to-end neural network segmentation framework based on the TensorFlow framework, which improves the segmentation accuracy oh hippocampal subfields on routine 3T MRI by synthesizing 7T-like MRI.
+<<<<<<< HEAD
 
 ![avatar](imgs/Figure1.JPG)
+=======
+![avatar](/imgs/Figure1.jpg)
+>>>>>>> 19e5648ff039a4181780caf9667c47da650b0df9
 
 The paper can be found [here](https://ieeexplore.ieee.org/abstract/document/10218394/algorithms#algorithms) in the IEEE Journal of Biomedical and Health Informatics.
 
