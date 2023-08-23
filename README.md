@@ -27,9 +27,7 @@ python training.py
 python testing.py
 ```
 
-
-
-##Dataset
+## Dataset
 
 This study used a [PAIRED 3T-7T HIPPOCAMPAL SUBFIELD DATASET](https://ieee-dataport.org/documents/paired-3t-7t-hippocampal-subfield-dataset) specially collected for this task (to be uploaded).
 
