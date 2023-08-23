@@ -2,7 +2,9 @@
 
 This is our implementation of an end-to-end neural network segmentation framework based on the TensorFlow framework, which improves the segmentation accuracy oh hippocampal subfields on routine 3T MRI by synthesizing 7T-like MRI.
 
-![avatar](imgs/Figure1.JPG){: width="20px" height="20px"}
+<img src='./imgs/Figure1.jpg' width=550>
+
+![avatar](imgs/Figure1.JPG)
 
 
 
