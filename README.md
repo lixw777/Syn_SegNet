@@ -3,7 +3,7 @@
 
 This is our implementation of an end-to-end neural network segmentation framework based on the TensorFlow framework, which improves the segmentation accuracy on routine 3T MRI by synthesizing 7T-like MRI.
 
-<img src='imgs/Figure1.jpg' width=550>
+<img src='imgs/Figure1.JPG' width=550>
 
 The paper can be found in [there](https://ieeexplore.ieee.org/abstract/document/10218394/algorithms#algorithms) for IEEE Journal of Biomedical and Health Informatics.
 
@@ -89,11 +89,12 @@ X. Li et al., ["Syn_SegNet: A Joint Deep Neural Network for Ultrahigh-Field 7 T 
 @ARTICLE{10218394,
   author={Li, Xinwei and Wang, Linjin and Liu, Hong and Ma, Baoqiang and Chu, Lei and Dong, Xiaoxi and Zeng, Debin and Che, Tongtong and Jiang, Xiaoming and Wang, Wei and Hu, Jun and Li, Shuyu},
   journal={IEEE Journal of Biomedical and Health Informatics}, 
-  title={Syn_SegNet: A Joint Deep Neural Network for Ultrahigh-Field 7 T MRI Synthesis and Hippocampal Subfield Segmentation in Routine 3 T MRI}, 
+  title={Syn_SegNet: A Joint Deep Neural Network for Ultrahigh-Field 7T MRI Synthesis and Hippocampal Subfield Segmentation in Routine 3T MRI}, 
   year={2023},
-  volume={},
-  number={},
-  pages={1-12},
+  volume={27},
+  number={10},
+  pages={4866-4877},
+  keywords={Magnetic resonance imaging;Image segmentation;Hippocampus;Generators;Three-dimensional displays;Manuals;Feature extraction;Generative adversarial network;hippocampal subfield segmentation;multiscale deep supervision;ultrahigh-field MRI synthesis},
   doi={10.1109/JBHI.2023.3305377}}
 ```
 
